@@ -1,0 +1,2 @@
+rootProject.name = "Intents and Intent Filters (WE)"
+include ':app'
